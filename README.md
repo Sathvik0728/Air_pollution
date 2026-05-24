@@ -215,19 +215,6 @@ This project can be deployed on:
 - Heroku
 - VPS
 
----
-
-# 📸 Screenshots
-
-## Home Page
-
-
-
-## AQI Prediction Result
-(Add screenshot here)
-
----
-
 # 👨‍💻 Author
 
 ## Banda Sathvik
